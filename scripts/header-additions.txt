@@ -1,0 +1,24 @@
+\usepackage[a4paper, margin=2cm]{geometry}
+\usepackage{textgreek}
+\usepackage{stmaryrd}
+\usepackage{newunicodechar}
+\newunicodechar{≔}{:=}
+\newunicodechar{ϕ}{\ensuremath{\phi}}
+\newunicodechar{ℝ}{\ensuremath{\mathbb{R}}}
+\newunicodechar{ℂ}{\ensuremath{\mathbb{C}}}
+\newunicodechar{ℚ}{\ensuremath{\mathbb{Q}}}
+\newunicodechar{⟦}{\ensuremath{\llbracket}}
+\newunicodechar{⟧}{\ensuremath{\rrbracket}}
+\newunicodechar{⫫}{\ensuremath{\perp\!\!\!\perp}}
+\newunicodechar{−}{\ensuremath{-}}
+\newunicodechar{∇}{\ensuremath{\nabla}}
+\newunicodechar{∂}{\ensuremath{\partial}}
+\newunicodechar{∯}{\ensuremath{\iint}}
+\newunicodechar{ }{ }
+\newunicodechar{⇒}{\ensuremath{\Rightarrow}}
+\newunicodechar{⇔}{\ensuremath{\Leftrightarrow}}
+\newunicodechar{∧}{\ensuremath{\wedge}}
+\newunicodechar{∨}{\ensuremath{\vee}}
+\newunicodechar{∀}{\ensuremath{\forall}}
+\newunicodechar{∃}{\ensuremath{\exists}}
+\newunicodechar{∈}{\ensuremath{\in}}
